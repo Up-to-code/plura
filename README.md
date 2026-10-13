@@ -25,3 +25,7 @@ npm install
 
 # Start development server
 npm run dev
+
+## Project links
+
+[Source](https://github.com/Up-to-code/plura) · [Issues](https://github.com/Up-to-code/plura/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
